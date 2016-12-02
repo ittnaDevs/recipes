@@ -1,2 +1,2 @@
 # recipes
-back and front for recipes app
+Back- and front- end for recipes app. This was a project made for school.
