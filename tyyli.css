@@ -1,0 +1,78 @@
+
+html{
+    margin: 0;
+}
+body{
+    margin-top: 0;
+}
+ul{
+    list-style-type: none;
+}
+form{
+    width: 70%;
+}
+form label{
+    font-size: 120%;
+}
+label{
+    font-size: 80%;
+}
+.linkki{
+    font-size: 100%;
+}
+#img{
+    position: fixed;
+    top:10%;
+    left: 39%;
+    width: 2%;
+    height: 2%;
+}
+nav{
+    background-color: #060002;
+	width: 100%;
+    margin-top: 0;
+    padding-top: 0;
+}
+nav a{
+    color: #AAF200;
+    padding-left: 1%;
+    font-size: 100%;
+    font-weight: normal;
+    font-style: normal;
+}
+ul[id='formin_asettelu'] li{
+    display: inline;
+    margin-right: 4%;
+}
+/*ul[id='formin_asettelu'] li:last-child{
+    display: inline;
+    margin-left: 5%;
+}*/
+ul[id='errorin_asettelu']{
+    position: relative;
+    float: right;
+    right: 20%;
+    display: block;
+    margin-left: 2%;
+}
+form ul li input[type='submit']{
+    width: 10%;
+}
+div{
+    position: relative;
+    float: left;
+    width:auto;
+    margin-right: 2%;
+}
+div p input{
+    width: 120%;
+}
+#reseptin_nimi{
+    margin-left: 4%;
+}
+#reseptin_kuvaus{
+    margin-left: 2.9%;
+}
+.hidden{
+    display: none;
+}
